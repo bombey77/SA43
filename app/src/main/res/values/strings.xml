@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SA43</string>
+
+    <string-array name="nameList">
+        <item>Vova</item>
+        <item>Vova1</item>
+        <item>Vova2</item>
+        <item>Vova3</item>
+        <item>Vova4</item>
+        <item>Vova5</item>
+        <item>Vova6</item>
+        <item>Vova7</item>
+        <item>Vova8</item>
+        <item>Vova9</item>
+        <item>Vova10</item>
+        <item>Vova11</item>
+        <item>Vova12</item>
+        <item>Vova13</item>
+        <item>Vova14</item>
+        <item>Vova15</item>
+        <item>Vova16</item>
+        <item>Vova17</item>
+        <item>Vova18</item>
+        <item>Vova19</item>
+        <item>Vova20</item>
+    </string-array>
+</resources>
